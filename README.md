@@ -19,7 +19,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/smarto100"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -34,14 +34,8 @@
  ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Smart_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/smarto100/)
 [![linkedin](https://img.shields.io/badge/smart-linkedin-0A66C2?color=1DA1F2&logo=linked&style=for-the-badge)](https://www.linkedin.com/in/babatunde-damilola-01b2481bb/) 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smarto_lee/)
-
-                                             
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/smarto_lee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/smarto_lee/)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
 
  <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
