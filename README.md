@@ -2,13 +2,13 @@
 **`Smart Ayo (Developer/Creative Graphic Design)`**
 
 <h3 align="center">
-  Welcome to Babatunde Ahmad Tijani profile!
+  <b> Welcome to Babatunde Ahmad Tijani profile!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h3><hr background-color="black">
 
 <!-- Typing SVG Smart - https://://github.com/smarto100/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Front%20End%20Developer;Experienced;%20Creative%2FGraphic%20Designer;6%2B%20Months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/smarto100/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Front%20End%20Developer;Experienced;%20Creative%2FGraphic%20Designer;6%2B%20Months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36454F&vCenter=true&size=22&pause=1000"></a> 
 </p>
 
 <!-- Social icons section -->
