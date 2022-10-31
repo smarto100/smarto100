@@ -13,11 +13,11 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="http://github.com/smarto100"><img width="32px" alt="github" title="github" src="http://i.imgur.com/7aIoxZc.png"/></a>
-   &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="http://www.linkedin.com/in/babatunde-damilola-01b2481bb"><img width="62px" height="32" alt="github" title="Youtube" src="http://i.imgur.com/RIefvk9.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/smarto_lee"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+<a href="http://github.com/smarto100"><img width="32px" alt="github" title="github" src="http://i.imgur.com/7aIoxZc.png"/></a>
+ &#8287;&#8287;&#8287;
+ <a href="http://www.linkedin.com/in/babatunde-damilola-01b2481bb"><img width="62px" height="32" alt="github" title="Youtube" src="http://i.imgur.com/RIefvk9.png"/</a>   &#8287;&#8287;&#8287;
+  <a href="https://twitter.com/smarto_lee"><img width="36px" height="36" alt="Twitter" title="Twitter" src="https://i.imgur.com/hwN7jrJ.png"/></a>
+  &#8287;&#8287;&#8287;
   <a href="https://dev.to/smarto100"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/smart100"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
