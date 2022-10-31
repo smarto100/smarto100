@@ -13,7 +13,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-<a href="http://github.com/smarto100"><img width="39px" alt="github" title="github" src="http://i.imgur.com/7aIoxZc.png"/></a>
+<a href="http://github.com/smarto100"><img width="35px" alt="github" title="github" src="http://i.imgur.com/7aIoxZc.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://twitter.com/smarto_lee"><img width="39px" height="36" alt="Twitter" title="Twitter" src="https://i.imgur.com/9PzKZcZ.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
