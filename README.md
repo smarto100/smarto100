@@ -32,11 +32,11 @@
  A Front End Developer, i learn every single day because each day is a lesson i Built and Create ...
  
  ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/smarto100/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babatunde-damilola-01b2481bb/)
+[![portfolio](https://img.shields.io/badge/Smart_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/smarto100/)
+[![linkedin](https://img.shields.io/badge/smart-linkedin-0A66C2?color=1DA1F2&logo=linked&style=for-the-badge)](https://www.linkedin.com/in/babatunde-damilola-01b2481bb/) 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smarto_lee/)
 
-[![linkedin](https://img.shields.io/badge/smart-linkedin-0A66C2?color=1DA1F2&logo=linked&style=for-the-badge)](https://www.linkedin.com/in/babatunde-damilola-01b2481bb/)                                              
+                                             
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/smarto_lee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/smarto_lee/)
 
