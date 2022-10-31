@@ -2,7 +2,7 @@
 **`Smart Ayo (Developer/Creative Graphic Design)`**
 
 <h3 align="center">
-  <b> Welcome to Babatunde Ahmad Tijani profile!</b>
+  <b> Welcome to Ahmad Tijani Abd. Rasaq profile!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
