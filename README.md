@@ -28,7 +28,7 @@
 
 
 ####  About Me
- A Front End Developer, i learn every single day because each day is a lesson i Built and Create ...
+ A Web Developer, i learn every single day because each day is a lesson i Built and Create ...
  
  ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/Smart_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/smarto100/)
@@ -56,17 +56,11 @@
 
 🌱 I’m currently learning everything 🤣
 
-🧠 I'm currently learning  fronend at Zuri
+👯‍♀️ I’m looking to collaborate with other content creators
 
-👯‍♀️ I'm looking to collaborate on any open gigs with cool money
-
-🤔 I'm looking for help with making money
-
-💬 Ask me about frontend
+💬 Ask me about Coding
 
 📫 How to reach me Damtechlee.bd@gmail.com
-
-😄 Pronouns he
 
 ⚡️ Fun fact i love video game 
 
