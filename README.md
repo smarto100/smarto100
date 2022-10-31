@@ -60,6 +60,8 @@
 
 💬 Ask me about Coding
 
+🥅 2022 Goals: Learn more about web3
+
 📫 How to reach me Damtechlee.bd@gmail.com
 
 ⚡️ Fun fact i love video game 
