@@ -51,12 +51,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ 👩‍💻 I'm currently working on Open soucre Contributon
+
+❤️ I love writing TypeScript, and building fun experiments on type-level
+
+🌱 I’m currently learning everything 🤣
+
+🧠 I'm currently learning  fronend at Zuri
+
+👯‍♀️ I'm looking to collaborate on any open gigs with cool money
+
+🤔 I'm looking for help with making money
+
+💬 Ask me about frontend
+
+📫 How to reach me Damtechlee.bd@gmail.com
+
+😄 Pronouns he
+
+⚡️ Fun fact i love video game 
 
