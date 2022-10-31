@@ -27,7 +27,7 @@
 </p>
 
 ####  About Me
- A Front End Developer, i learn every single day because each day is a lesson i Built and Create ..
+ A Front End Developer, i learn every single day because each day is a lesson i Built and Create ...
  
  ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/smarto100/)
