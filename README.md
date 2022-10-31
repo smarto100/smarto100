@@ -49,7 +49,7 @@
 
 
 
-
+ ## Developer, and Teacher!!
  👩‍💻 I'm currently working on Open soucre Contributon
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
