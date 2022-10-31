@@ -1,4 +1,5 @@
-### Hi there 👋
+
+**`Smart Ayo (Developer/Creative Graphic Design)`**
 
 <h3 align="center">
   Welcome to Babatunde Ahmad Tijani profile!
@@ -25,8 +26,19 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-<!--
+####  About Me
+ A Front End Developer, i learn every single day because each day is a lesson i Built and Create ..
+ 
+ ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/smarto100/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babatunde-damilola-01b2481bb/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smarto_lee/)
+
 **smarto100/smarto100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**`Smart Ayo (Developer/Creative Graphic Design)`**
+
+
 
 Here are some ideas to get you started:
 
@@ -38,4 +50,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
