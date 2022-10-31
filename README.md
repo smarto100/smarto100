@@ -4,7 +4,7 @@
 <h3 align="center">
   <b> Welcome to Babatunde Ahmad Tijani profile!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3><hr background-color="black">
+</h3>
 
 <!-- Typing SVG Smart - https://://github.com/smarto100/readme-typing-svg -->
 <p align="center">
@@ -17,13 +17,13 @@
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="http://www.linkedin.com/in/babatunde-damilola-01b2481bb"><img width="62px" height="32" alt="github" title="Youtube" src="http://i.imgur.com/RIefvk9.png"/</a>   &#8287;&#8287;&#8287;
   <a href="https://twitter.com/smarto_lee"><img width="36px" height="36" alt="Twitter" title="Twitter" src="https://i.imgur.com/9PzKZcZ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287; 
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/smarto100"><img width="36px" height="36" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/HO0mATQ.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/smart100"><img width="36px" height="36" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/KY6jdcu.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-</p>
+</p><hr>
 
 
 
