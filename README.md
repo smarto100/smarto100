@@ -13,17 +13,15 @@
 
 <!-- Social icons section -->
 <p align="center">
- <a href="http://github.com/smarto100"><img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
-<a href="http://github.com/smarto100"><img width="35px" alt="github" title="github" src="http://i.imgur.com/7aIoxZc.png"/></a>
+ <a href="http://github.com/smarto100"><img alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://twitter.com/smarto_lee"><img width="39px" height="36" alt="Twitter" title="Twitter" src="https://i.imgur.com/9PzKZcZ.png"/></a>
+ <a href="https://twitter.com/smarto_lee"><img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://dev.to/smarto100"><img width="36px" height="36" alt="Dev.to" title="smarto Dev.to" src="https://i.imgur.com/HO0mATQ.png"></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://ko-fi.com/smart100"><img width="40px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/KY6jdcu.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="http://www.linkedin.com/in/babatunde-damilola-01b2481bb"><img width="40px" alt="linked" title="linkedin"src="http://i.imgur.com/6pd7DPp.png"/</a>  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
 </p><hr>
  I'm a Web Developer, i learn every single day because each day is a lesson i Built and Create ...
 
@@ -105,7 +103,7 @@
  
   
   
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/twitter.svg"/>
+  <img align="left" alt="twitter" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/twitter.svg"/>
   
   
          
