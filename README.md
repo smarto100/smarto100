@@ -17,11 +17,11 @@
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://twitter.com/smarto_lee"><img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://dev.to/smarto100"><img width="36px" height="36" alt="Dev.to" title="smarto Dev.to" src="https://i.imgur.com/HO0mATQ.png"></a>
+ <a href="https://dev.to/smarto100"><img alt="dev" width="35px" src="https://simpleicons.org/icons/devdotto.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://ko-fi.com/smart100"><img width="40px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/KY6jdcu.png"/></a>
+ <a href="https://ko-fi.com/smart100"><img alt="ko-fi" width="30px" src="https://simpleicons.org/icons/kofi.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="http://www.linkedin.com/in/babatunde-damilola-01b2481bb"><img width="40px" alt="linked" title="linkedin"src="http://i.imgur.com/6pd7DPp.png"/</a>  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="http://www.linkedin.com/in/babatunde-damilola-01b2481bb"><img alt="linkedin" width="25px" height="25px" style="padding-top:-60px" src="https://simpleicons.org/icons/linkedin.svg"/></a> 
 </p><hr>
  I'm a Web Developer, i learn every single day because each day is a lesson i Built and Create ...
 
@@ -95,16 +95,14 @@
  
   <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
           
-<img align="left" alt="ko-fi" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/kofi.svg"/>       
+      
  
-<img align="left" alt="dev" width="35px" style="padding-right:10px;" src="https://simpleicons.org/icons/devdotto.svg"/>
+
           
- <img align="left" alt="linkedin" width="30px" height="25px" style="padding-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
+
  
   
-  
-  <img align="left" alt="twitter" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/twitter.svg"/>
-  
+ 
   
          
           
