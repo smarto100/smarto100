@@ -8,7 +8,7 @@
 
 <!-- Typing SVG Smart - https://://github.com/smarto100/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/smarto100/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Front%20End%20Developer;Experienced;%20Creative%2FGraphic%20Designer;6%2B%20Months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36454F&vCenter=true&size=22&pause=1000"></a> 
+  <a href="https://github.com/smarto100/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced;%20Creative%2FGraphic%20Designer;6%2B%20Months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36454F&vCenter=true&size=22&pause=1000"></a> 
 </p>
 
 <!-- Social icons section -->
@@ -77,6 +77,35 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+   
+   <a href="#"><img alt="Phostoshop" width="140px" height="23px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
+   
+   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   
+   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   
+   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+   
+   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
+   
+   <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+         
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+ 
+ <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg"/>
+ 
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+          
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/kofi.svg"/>       
+ 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/devdotto.svg"/>
+          
+ <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
+         
+          
+         
+   
+          
   
 
 
