@@ -13,6 +13,7 @@
 
 <!-- Social icons section -->
 <p align="center">
+ <a href="http://github.com/smarto100"><img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
 <a href="http://github.com/smarto100"><img width="35px" alt="github" title="github" src="http://i.imgur.com/7aIoxZc.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://twitter.com/smarto_lee"><img width="39px" height="36" alt="Twitter" title="Twitter" src="https://i.imgur.com/9PzKZcZ.png"/></a>
@@ -94,15 +95,19 @@
  
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg"/>
  
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
           
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/kofi.svg"/>       
+<img align="left" alt="ko-fi" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/kofi.svg"/>       
  
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/devdotto.svg"/>
+<img align="left" alt="dev" width="35px" style="padding-right:10px;" src="https://simpleicons.org/icons/devdotto.svg"/>
           
- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
+ <img align="left" alt="linkedin" width="30px" height="25px" style="padding-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
  
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
+  
+  
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/twitter.svg"/>
+  
+  
          
           
          
