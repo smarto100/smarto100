@@ -101,6 +101,8 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/devdotto.svg"/>
           
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
+ 
+  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/linkedin.svg"/>
          
           
          
