@@ -24,32 +24,11 @@
  <a href="http://www.linkedin.com/in/babatunde-damilola-01b2481bb"><img width="40px" alt="linked" title="linkedin"src="http://i.imgur.com/6pd7DPp.png"/</a>  &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p><hr>
+ I'm a Web Developer, i learn every single day because each day is a lesson i Built and Create ...
 
-
-
-####  About Me
- A Web Developer, i learn every single day because each day is a lesson i Built and Create ...
+ ####  About Me
  
- ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Smart_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/smarto100/)
-[![linkedin](https://img.shields.io/badge/smart-linkedin-0A66C2?color=1DA1F2&logo=linked&style=for-the-badge)](https://www.linkedin.com/in/babatunde-damilola-01b2481bb/) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/smarto_lee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/smarto_lee/)
-
-
- <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
-
-
- ## Developer, and Teacher!!
+  ## Developer, and Teacher!!
  👩‍💻 I'm currently working on Open soucre Contributon
 
 ❤️ I love writing TypeScript, and building fun experiments on type-level
@@ -65,4 +44,24 @@
 📫 How to reach me Damtechlee.bd@gmail.com
 
 ⚡️ Fun fact i love video game 
+ 
+ ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/Smart_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/smarto100/)
+[![linkedin](https://img.shields.io/badge/smart-linkedin-0A66C2?color=1DA1F2&logo=linked&style=for-the-badge)](https://www.linkedin.com/in/babatunde-damilola-01b2481bb/) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/smarto_lee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/smarto_lee/)
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/smarto100/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/smarto100/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=smarto100&theme=monokai-metallian&hide_border=true"/> 
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+
+
+
+
 
