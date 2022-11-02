@@ -88,10 +88,10 @@
  </p>
    
    
-   
+  <br> <br> 
    ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/smarto100/github-readme-stats -->
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -105,7 +105,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-
+ 
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
@@ -116,12 +116,12 @@
     <!--END_SECTION:activity-->
     </details>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!-- https://github.com/smarto100/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/smarto100/github-readme-activity-graph"><img alt="smarto100's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
    
  
- <a href="http://www.github.com/smarto100"><img src="https://activity-graph.herokuapp.com/graph?username=theselaw&bg_color=000000&color=facc15&line=facc15&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ <a href="http://www.github.com/smarto100"><img src="https://activity-graph.herokuapp.com/graph?username=smarto100&bg_color=000000&color=facc15&line=facc15&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
          
 <a href="https://github.com/theselaw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theselaw&langs_count=10&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
@@ -149,8 +149,5 @@
          
           
          
-   
-          
   
-
 
