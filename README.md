@@ -58,11 +58,13 @@
 <!-- GitHub Readme Streak Stats - https://github.com/smarto100/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/smarto100/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2"/> 
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="smarto100's streak" src="https://streak-stats.demolab.com/?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2"/> 
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2)](https://git.io/streak-stats)
 
 ## 🛠️ My favorite tools
 
