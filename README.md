@@ -121,7 +121,7 @@
 <a href="https://github.com/smarto100/github-readme-activity-graph"><img alt="smarto100's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
    
  
- <a href="http://www.github.com/smarto100"><img src="https://activity-graph.herokuapp.com/graph?username=smarto100&bg_color=000000&color=facc15&line=facc15&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+ <a href="http://www.github.com/smarto100"><img src="https://activity-graph.herokuapp.com/graph?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Commits Graph" /></a>
          
 <a href="https://github.com/theselaw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theselaw&langs_count=10&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
