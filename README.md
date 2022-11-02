@@ -17,7 +17,7 @@
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://twitter.com/smarto_lee"><img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/smarto_lee"><img alt="twitter" width="30px" src="https://simpleicons.org/icons/discord.svg"/></a>
+  <a href="https://discord.com/channels/@me"><img alt="discord" width="30px" src="https://simpleicons.org/icons/discord.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://dev.to/smarto100"><img alt="dev" width="35px" src="https://simpleicons.org/icons/devdotto.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
