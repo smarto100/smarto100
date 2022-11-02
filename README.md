@@ -63,8 +63,10 @@
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
+<a href="https://github.com/smarto100/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="smarto100's streak" scr="https://streak-stats.demolab.com?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2"> </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2)](https://git.io/streak-stats)
+<a href="http://www.github.com/smarto100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theselaw&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 ## 🛠️ My favorite tools
 
