@@ -87,7 +87,6 @@
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/obsstudio.svg"/> 
  </p>
    
-   <a href="http://www.github.com/theselaw"><img src="https://github-readme-stats.vercel.app/api?username=theselaw&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="theselaw's GitHub stats" /></a>
   <br> <br> 
    ## 📊 Github stats
 
@@ -96,34 +95,13 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/smarto100/"><img alt="smarto100's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=smarto100&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/smarto100/"><img alt="smarto100's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarto100&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <a href="https://github.com/smarto100"><img alt="smarto100's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarto100&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
- 
-<!--START_SECTION:activity-->
-
-1. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-2. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-3. 🗣 Commented on [#5](https://github.com/nextcord/nextcord-ext-help-commands/issues/5) in [nextcord/nextcord-ext-help-commands](https://github.com/nextcord/nextcord-ext-help-commands)
-4. 🎉 Merged PR [#163](https://github.com/smarto100/readme-typing-svg/pull/163) in [smarto100/readme-typing-svg](https://github.com/smarto100/readme-typing-svg)
-5. 🎉 Merged PR [#348](https://github.com/smarto100/github-readme-streak-stats/pull/348) in [smarto100/github-readme-streak-stats](https://github.com/smarto100/github-readme-streak-stats)
-    <!--END_SECTION:activity-->
-    </details>
-
 <!-- https://github.com/smarto100/github-readme-activity-graph -->
 
 <a href="https://github.com/smarto100/"><img alt="smarto100's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-   
  
- <a href="http://www.github.com/smarto100"><img src="https://activity-graph.herokuapp.com/graph?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Commits Graph" /></a>
-         
-<a href="https://github.com/theselaw" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theselaw&langs_count=10&title_color=facc15&text_color=facc15&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
  
  
