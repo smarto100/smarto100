@@ -54,12 +54,14 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/smarto100?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>   <a href="https://github.com/smarto100?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/smarto100?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  <a href="https://github.com/smarto100/Simple-View-Counter">
+  
+  <a href="http://www.github.com/theselaw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theselaw&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/smarto100/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/smarto100/">
+  <a href="https://www.github.com/smarto100">
     <img alt="smarto100's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2"/>  
   </a>
 </p>
