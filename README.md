@@ -21,7 +21,7 @@
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://ko-fi.com/smart100"><img alt="ko-fi" width="30px" src="https://simpleicons.org/icons/kofi.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://www.instagram.com/smart_kreative/smart100"><img alt="instagram" width="25px" src="https://simpleicons.org/icons/instagram.svg"/></a>
+ <a href="https://www.instagram.com/smart_kreative/"><img alt="instagram" width="25px" src="https://simpleicons.org/icons/instagram.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p><hr>
 
