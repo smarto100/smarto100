@@ -11,11 +11,13 @@
   <a href="https://github.com/smarto100/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Web%20Developer;Experienced;%20Creative%2FGraphic%20Designer;6%2B%20Months%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36454F&vCenter=true&size=22&pause=1000"></a> 
 </p>
 
-<!-- Social icons section -->
+<!-- Social icons section --> 
 <p align="center">
  <a href="http://github.com/smarto100"><img alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://twitter.com/smarto_lee"><img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg"/></a>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/smarto_lee"><img alt="twitter" width="30px" src="https://simpleicons.org/icons/discord.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://dev.to/smarto100"><img alt="dev" width="35px" src="https://simpleicons.org/icons/devdotto.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -58,14 +60,10 @@
 <!-- GitHub Readme Streak Stats - https://github.com/smarto100/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/smarto100/">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="smarto100's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2"/> 
+    <img alt="smarto100's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2"/>  
   </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-
-<a href="http://www.github.com/smarto100">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smarto100&theme=gruvbox&hide_border=true&background=110635E2&fire=DDD2A6&dates=D3D5E2C4&stroke=CED0DDEC&ring=9C9EA8EC&currStreakNum=E5E5E5EC&sideNums=F9F9F9EC&currStreakLabel=D0D558F9&sideLabels=F1F766E2"/></a>
 
 ## 🛠️ My favorite tools
 
