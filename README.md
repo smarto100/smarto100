@@ -54,8 +54,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/smarto100?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>   <a href="https://github.com/smarto100?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/smarto100?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
  <a href="https://github.com/smarto100/Simple-View-Counter">
-  
-  <a href="http://www.github.com/theselaw"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theselaw&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 ## 🔥 Streak stats
 
