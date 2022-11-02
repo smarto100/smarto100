@@ -113,6 +113,6 @@
   
   ## 🎓 Education
   <p>
-  <a href="https://www.freecodecamp.org/damtech"><img align="left" alt="freecodecamp" width="30px" style="padding-right:10px;" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg"/></a>
+  <a href="https://www.freecodecamp.org/smart100"><img align="left" alt="freecodecamp" width="30px" style="padding-right:10px;" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg"/></a>
   </p> 
  
