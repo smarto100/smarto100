@@ -15,7 +15,7 @@
 <p align="center">
  <a href="http://github.com/smarto100"><img alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="http://https://codepen.io/smart100"><img alt="codepen" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/></a>
+ <a href="http://codepen.io/smart100"><img alt="codepen" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://twitter.com/smarto_lee"><img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
