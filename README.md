@@ -118,7 +118,7 @@
 
 <!-- https://github.com/smarto100/github-readme-activity-graph -->
 
-<a href="https://github.com/smarto100/github-readme-activity-graph"><img alt="smarto100's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/smarto100/"><img alt="smarto100's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
    
  
  <a href="http://www.github.com/smarto100"><img src="https://activity-graph.herokuapp.com/graph?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Commits Graph" /></a>
