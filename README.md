@@ -15,6 +15,8 @@
 <p align="center">
  <a href="http://github.com/smarto100"><img alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href="http://https://codepen.io/smart100"><img alt="codepen" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/></a>
+ &#8287;&#8287;&#8287;&#8287;&#8287;
  <a href="https://twitter.com/smarto_lee"><img alt="twitter" width="30px" src="https://simpleicons.org/icons/twitter.svg"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/channels/@me"><img alt="discord" width="30px" src="https://simpleicons.org/icons/discord.svg"/></a>
@@ -77,12 +79,14 @@
  
  ### 💻 Software and tools
  <p>
- <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+ <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
  <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
  <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
- <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/stackoverflow.svg"/> 
- <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png"/>
+ <img align="left" alt="stackoverflow" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/stackoverflow.svg"/> 
+ <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>    
+ <img align="left" alt="github-desktop" width="30px" style="padding-right:10px;" src="https://cdn.jim-nielsen.com/macos/128/github-desktop-2021-05-20.png"/>
  <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"/>
+ <img align="left" alt="illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"/>
  <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://i0.wp.com/mahalo-studio.com/wp-content/uploads/2020/07/coreldraw-logo.png?fit=572%2C600&ssl=1&is-pending-load=1"/>
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://simpleicons.org/icons/obsstudio.svg"/> 
  </p>
@@ -92,7 +96,7 @@
 
 <!-- https://github.com/smarto100/github-readme-stats -->
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary><h4>💻 GitHub Profile Stats</h4></summary>
   <br/>
     <a href="https://github.com/smarto100/"><img alt="smarto100's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=smarto100&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/smarto100"><img alt="smarto100's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarto100&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
@@ -103,29 +107,3 @@
 <a href="https://github.com/smarto100/"><img alt="smarto100's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=smarto100&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
  
- 
- 
-  
-          
-      
- 
-
-           
-          
-     
-  
-   
-   
-  
-   
- 
-   
-
-          
-
-  
-         
-          
-         
-  
-
